@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @iirisjarv
-- 👀 I’m interested in learning to code, starting wih C and python
-- 🌱 I’m currently learning both C and Python, with main focus on C
+- 👋 Hi, I’m Ines
+- 🗺 I'm a geographer interested in tech
+- 👀 I’m interested in learning to code. I'm keen on data, cloud and integrations. 
+- ⭐I finished the Piscine, the hardest thing I've ever done, yet so rewarding!
+- 🌱 I’m currently learning both C and Python and just started the ODIN PROJECT
+
 - 📫 How to reach me by e-mail ynes03@hotmail.com
 
-<!---
-iirisjarv/iirisjarv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for your interest :) Hope you see something you like! 
